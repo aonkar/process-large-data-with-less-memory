@@ -17,7 +17,7 @@ public class FileConstants {
     /**
      * The constant INPUT_FILE.
      */
-    public static final String INPUT_FILE = "fifty-gb-input.txt";
+    public static final String INPUT_FILE = "input.txt";
     /**
      * The constant OUTPUT_FILE.
      */
